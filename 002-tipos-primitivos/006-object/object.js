@@ -22,6 +22,7 @@ console.log({
     cardaco: {
       cor: "branco",
       tamanhoDoCardaco: "G",
+      material: "tecido",
     },
     palmilha: {
       cor: "azul",
