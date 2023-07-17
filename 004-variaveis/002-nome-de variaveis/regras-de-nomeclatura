@@ -1,0 +1,41 @@
+/* As regras para criar nomes de variáveis podem variar um pouco dependendo da linguagem de programação, mas, em geral, seguem alguns padrões comuns. Aqui estão as regras gerais para criar nomes de variáveis:
+
+    Os nomes de variáveis devem começar com uma letra (a-z, A-Z) ou um sublinhado (_).
+
+    Após a primeira letra, você pode usar letras, dígitos (0-9) ou sublinhados.
+
+    Os nomes de variáveis são sensíveis a maiúsculas e minúsculas. Por exemplo, "nome" e "Nome" são considerados diferentes em muitas linguagens de programação.
+
+    Evite usar caracteres especiais, como @, $, #, %, etc. em nomes de variáveis.
+
+    Não use palavras-chave reservadas da linguagem como nomes de variáveis. Cada linguagem possui uma lista de palavras-chave reservadas que têm significado especial na sintaxe da linguagem.
+
+    Evite usar nomes de variáveis muito genéricos, como "x", "y", "temp", pois eles podem não fornecer informações claras sobre o propósito ou conteúdo da variável.
+
+    Use nomes descritivos e significativos para suas variáveis, para que outras pessoas que leiam seu código possam entender facilmente o que a variável representa.
+
+    Se o nome da variável for composto por várias palavras, você pode usar uma convenção de nomenclatura como camelCase (por exemplo, meuNomeVariavel) ou snake_case (por exemplo, meu_nome_variavel). Novamente, isso pode variar dependendo da linguagem de programação e das convenções adotadas.
+
+    Exemplos:
+        Exemplos usando camelCase:
+        nomeCompleto
+        idadeUsuario
+        quantidadeProdutos
+        dataNascimento
+
+    Exemplos usando snake_case:
+        saldo_conta
+        numero_documento
+        quantidade_estoque
+        total_vendas_mes
+
+Aqui estão cinco palavras reservadas do JavaScript que não podem ser usadas como nomes de variáveis:
+Ps: existem varias outras essas são apenas um exemplo.
+var
+let
+const
+function
+return
+
+Essas palavras reservadas têm significados especiais na sintaxe e no funcionamento do JavaScript e são usadas para declaração de variáveis, criação de funções e controle de fluxo. Portanto, não podem ser usadas como nomes de variáveis, pois podem causar erros ou comportamentos inesperados no seu código.
+ */
