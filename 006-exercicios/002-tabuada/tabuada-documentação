@@ -1,0 +1,30 @@
+// O código acima realiza uma multiplicação utilizando um multiplicador fixo e exibe o resultado para cada valor de 0 a 12.
+
+// A linha de código "const multiplicador = 7;" define o valor do multiplicador. Neste exemplo, o valor é 7.
+
+// Em seguida, é utilizado um loop for para iterar de 0 a 12.
+// A linha de código "for (let valor = 0; valor <= 12; valor++) {" inicializa uma variável 'valor' com valor 0, executa o loop enquanto 'valor' for menor ou igual a 12 e incrementa 'valor' em 1 a cada iteração.
+
+// Dentro do loop, o código realiza o cálculo da multiplicação e exibe o resultado.
+// A linha de código "const calculo = multiplicador * i;" calcula o resultado da multiplicação do multiplicador pelo valor atual de 'valor' e armazena o resultado na variável 'calculo'.
+// A linha de código "console.log([${multiplicador} X ${valor}] = ${calculo});" exibe uma mensagem no console com o formato "[multiplicador X i] = resultado".
+
+// Durante cada iteração do loop, o valor de 'valor' é atualizado, o cálculo é realizado e o resultado é exibido no console.
+
+// No exemplo fornecido, o multiplicador é 7. O loop executa 13 iterações (0 a 12) e para cada iteração, o código calcula o resultado da multiplicação entre o multiplicador e o valor de 'i' atual.
+// Os resultados são exibidos no console da seguinte forma:
+// [7 X 0] = 0
+// [7 X 1] = 7
+// [7 X 2] = 14
+// [7 X 3] = 21
+// [7 X 4] = 28
+// [7 X 5] = 35
+// [7 X 6] = 42
+// [7 X 7] = 49
+// [7 X 8] = 56
+// [7 X 9] = 63
+// [7 X 10] = 70
+// [7 X 11] = 77
+// [7 X 12] = 84
+
+// Cada linha representa uma iteração do loop, mostrando o valor do multiplicador, o valor de 'valor' e o resultado da multiplicação.

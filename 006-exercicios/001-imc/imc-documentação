@@ -1,0 +1,18 @@
+// O código calcula o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos.
+// A linha de código "const peso = parseFloat(prompt("Digite seu peso em quilogramas:"));" permite que o usuário digite seu peso através de um prompt no navegador. Neste exemplo, o valor do peso foi definido como 70 quilogramas.
+// A linha de código "const altura = parseFloat(prompt("Digite sua altura em metros:"));" permite que o usuário digite sua altura através de um prompt no navegador. Neste exemplo, o valor da altura foi definido como 1.85 metros.
+
+// O próximo passo é calcular o IMC utilizando a fórmula IMC = peso / (altura _ altura).
+// A linha de código "const imc = Number((peso / (altura _ altura)).toFixed(2));" calcula o IMC com duas casas decimais e armazena o resultado na variável 'imc'.
+
+// Em seguida, o código utiliza um switch para verificar em qual faixa de IMC o valor se enquadra e exibe uma mensagem correspondente.
+// Se o valor do IMC for menor que 17, é exibida a mensagem "O seu IMC:[valor do imc], muito abaixo do peso".
+// Se o valor do IMC estiver entre 17 e 18.59, é exibida a mensagem "O seu IMC:[valor do imc], abaixo do peso".
+// Se o valor do IMC estiver entre 18.5 e 24.99, é exibida a mensagem "O seu IMC:[valor do imc], peso normal".
+// Se o valor do IMC estiver entre 25 e 29.99, é exibida a mensagem "O seu IMC:[valor do imc], acima do peso".
+// Se o valor do IMC estiver entre 30 e 34.99, é exibida a mensagem "O seu IMC:[valor do imc], obesidade I".
+// Se o valor do IMC estiver entre 35 e 39.99, é exibida a mensagem "O seu IMC:[valor do imc], Obesidade II".
+// Se o valor do IMC não se encaixar em nenhuma das faixas anteriores, é exibida a mensagem "Valor do IMC:[valor do imc], alto risco.".
+
+// No exemplo fornecido, o valor do IMC é 23.49, que se enquadra na faixa de "peso normal".
+// Portanto, a mensagem exibida seria "O seu IMC:[23.49], peso norm
