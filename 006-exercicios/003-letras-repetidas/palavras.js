@@ -3,11 +3,11 @@ const palavra = "Paralelepipido de itaquaqcetuba"
   .replaceAll(" ", "");
 let letras = {};
 
-for (let i = 0; i < palavra.length; i++) {
-  if (letras[palavra[i]]) {
-    letras[palavra[i]]++;
+for (const letra of palavra) {
+  if (letras[letra]) {
+    letras[letra]++;
   } else {
-    letras[palavra[i]] = 1;
+    letras[letra] = 1;
   }
 }
 
