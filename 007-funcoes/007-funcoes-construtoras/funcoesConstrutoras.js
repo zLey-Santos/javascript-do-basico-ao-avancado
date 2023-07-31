@@ -46,4 +46,4 @@ console.log(somaCalculadora.subtracao(5, 2));
 
 // Chamando o método 'soma' do objeto 'somaCalculadora' com 2 e 5 como argumentos,
 // que retorna o resultado da adição (7) e o imprime no console
-console.log(somaCalculadora.soma(2, 5));
+console.log(somaCalculadora.soma(2, 5, 4));
