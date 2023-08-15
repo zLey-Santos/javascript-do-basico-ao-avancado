@@ -5,7 +5,7 @@ const myArrayObj = [
 ];
 
 myArrayObj.forEach((item, index) => {
-  if (item.nome === "Luana ") {
+  if (item.nome === "Adam ") {
     return console.log("Vamos ao veterinaio hoje sem marcação previa");
   }
   console.log(index, item.nome);
