@@ -31,8 +31,8 @@ const pedidos = [
   },
 ];
 
-const filterRefri = pedidos.filter((Element, index) => {
+const findId = pedidos.find((Element, index) => {
   return Element.bebida === "Refrigerante";
 });
 
-console.log(filterRefri); // filter pega todos elementos do meu array
+console.log(findId); // find pega o primeiro elemento que ele encontrar
