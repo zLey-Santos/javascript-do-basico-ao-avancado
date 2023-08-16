@@ -31,8 +31,8 @@ const pedidos = [
   },
 ];
 
-const existeAlimento = pedidos.some((Element, index) => {
-  return Element.alimento === "Pizza";
+const temRefri = pedidos.every((Element, index) => {
+  return Element.bebida === "Refrigerante";
 });
 
-console.log(existeAlimento); // fase pois existe outros tipos de bebidas nos pedidos, retonaria true se tivesse apenas refrigerante
+console.log(temRefri); // fase pois existe outros tipos de bebidas nos pedidos, retonaria true se tivesse apenas refrigerante
