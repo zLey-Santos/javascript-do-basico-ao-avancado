@@ -52,4 +52,4 @@ switch (variavel) {
 }
 
 
-As condicionais são uma parte fundamental da lógica de programação e permitem que o código tome decisões dinamicamente com base em diferentes situações. Elas ajudam a controlar o fluxo de execução do programa e a personalizar a lógica de acordo com os requisitos específicos.
+As condicionais são uma parte fundamental da lógica de programação e permitem que o código tome decisões dinamicamente com base em diferentes situações. Elas ajudam a controlar o fluxo de execução do programa e a personalizar a lógica de acordo com os requisitos específicos...
