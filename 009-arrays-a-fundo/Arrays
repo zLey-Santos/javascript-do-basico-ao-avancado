@@ -24,4 +24,4 @@ Por exemplo, você pode adicionar um elemento ao final do array usando o método
 numeros.push(6);
 console.log(numeros); // Saída: [1, 2, 3, 4, 5, 6]
 
-Os arrays são amplamente utilizados em JavaScript para armazenar e manipular conjuntos de dados relacionados, permitindo que você itere sobre eles, faça operações em massa e organize informações de maneira estruturada.
+Os arrays são amplamente utilizados em JavaScript para armazenar e manipular conjuntos de dados relacionados, permitindo que você itere sobre eles, faça operações em massa e organize informações de maneira estruturada...
