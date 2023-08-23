@@ -2,7 +2,7 @@ console.log("-----------------------------------");
 let soma = 0;
 
 if (soma >= 0) {
-  console.log("Seu saldo está positivo"); // true
+  console.log("Seu saldo está positivo"); // true.
 } else {
   console.log("Seu saldo está negativo"); // false
 }
