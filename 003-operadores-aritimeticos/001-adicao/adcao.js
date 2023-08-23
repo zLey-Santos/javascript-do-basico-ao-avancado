@@ -12,7 +12,6 @@ console.log("Nome:" + "Wesley Santos" + ", " + "idade:" + 30 + 1);
 // nesse caso ele soma o 30 + 1 por esta entre  parênteses
 // (30 + 1 retora 31) valor de precedência da matemática resolve primeiro o que esta entre parênteses() depois o que esta por fora
 console.log("Nome:" + "Wesley Santos" + ", " + "idade:" + (30 + 1));
-
 /* 
 Os valores podem ser separados por vigulas veremos uma explicação mais a frente.
 Veremos também sobre as crases (`crases`)

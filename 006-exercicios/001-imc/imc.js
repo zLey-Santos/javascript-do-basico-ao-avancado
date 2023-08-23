@@ -4,34 +4,34 @@
 const peso = 70;
 const altura = 1.85;
 
-const imc = Number((peso / (altura * altura)).toFixed(2));
+const IMC = Number((peso / (altura * altura)).toFixed(2));
 
 switch (true) {
-  case imc < 17:
-    console.log(`O seu IMC:[${imc}], muito abaixo do peso`);
+  case IMC < 17:
+    console.log(`O seu IMC:[${IMC}], muito abaixo do peso`);
     break;
 
-  case imc > 17 && imc < 18.59:
-    console.log(`O seu IMC:[${imc}], abaixo do peso`);
+  case IMC > 17 && IMC < 18.59:
+    console.log(`O seu IMC:[${IMC}], abaixo do peso`);
     break;
 
-  case imc > 18.5 && imc < 24.99:
-    console.log(`O seu IMC:[${imc}], peso normal`);
+  case IMC > 18.5 && IMC < 24.99:
+    console.log(`O seu IMC:[${IMC}], peso normal`);
     break;
 
-  case imc > 25 && imc < 29.99:
-    console.log(`O seu IMC:[${imc}], acima do peso`);
+  case IMC > 25 && IMC < 29.99:
+    console.log(`O seu IMC:[${IMC}], acima do peso`);
     break;
 
-  case imc > 30 && imc < 34.99:
-    console.log(`O seu IMC:[${imc}], obesidade I`);
+  case IMC > 30 && IMC < 34.99:
+    console.log(`O seu IMC:[${IMC}], obesidade I`);
     break;
 
-  case imc > 35 && imc < 39.99:
-    console.log(`O seu IMC:[${imc}], Obesidade II`);
+  case IMC > 35 && IMC < 39.99:
+    console.log(`O seu IMC:[${IMC}], Obesidade II`);
     break;
 
   default:
-    console.log(`Valor do IMC:[${imc}], alto risco.`);
+    console.log(`Valor do IMC:[${IMC}], alto risco.`);
     break;
 }
