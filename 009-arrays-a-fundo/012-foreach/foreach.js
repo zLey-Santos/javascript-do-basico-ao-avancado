@@ -1,3 +1,5 @@
+//foreach
+
 const myArrayObj = [
   { nome: "Wesley ", sobreNome: "Santos" },
   { nome: "Luana ", sobreNome: "Valentim" },
