@@ -1,7 +1,7 @@
 // temos varios tipo e maneira de armazenar dados vejamos alguns tipos
 // var = é utilizada de forma gobla ( ps: um recurso menos utilizados pois pode criar bugs no código)
 // let = é alterada dentro  do seu escopo maneira mais segura de se declarar uma variavel
-// const = é uma constante ela não pode trocar o seu valor em nenhuma parte do código
+// const = é uma constante ela não pode trocar o seu valor em nenhuma parte do código..
 
 var lestName = "santos";
 let nome = "wesley";
