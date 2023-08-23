@@ -10,3 +10,4 @@ p.forEach((element) => {
   element.style.borderRadius = "8px";
   element.style.padding = "8px";
 });
+//
