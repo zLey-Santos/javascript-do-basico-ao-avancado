@@ -35,4 +35,4 @@ const filterRefri = pedidos.filter((Element, index) => {
   return Element.bebida === "Refrigerante";
 });
 
-console.log(filterRefri); // filter pega todos elementos do meu array
+console.log(filterRefri); // filter pega todos elementos do meu array.
