@@ -7,3 +7,4 @@ console.log(
     console.log(`valor ${indice}, indice ${index}`);
   })
 );
+/* array */
