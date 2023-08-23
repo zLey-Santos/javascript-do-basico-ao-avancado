@@ -9,3 +9,4 @@ div.classList.add("background-red");
 div.removeAttribute("id");
 
 console.log(div);
+//
