@@ -1,6 +1,6 @@
 /**
  * inner/html => REtorna o texto, com formatações e com elementos HTML\
- * createElement ==> Cria um elemento HTML
+ * createElement ==> Cria um elemento HTML.
  **/
 const div = document.querySelector("div");
 console.log(1, div);
