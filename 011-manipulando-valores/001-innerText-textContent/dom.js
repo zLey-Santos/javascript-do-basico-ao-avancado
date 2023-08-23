@@ -2,7 +2,7 @@
 
 /**
  * trextContent => Retorna o text COM formatações, mas sem elementos
- * innerText => Retorna somente o texto, sem formatações ou elementos
+ * innerText => Retorna somente o texto, sem formatações ou elementos.
  * **/
 
 const p = document.querySelector("p");
