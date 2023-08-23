@@ -15,7 +15,7 @@ let cloneObject = (objc) => {
 // Criação de uma variável "clone1" que recebe o resultado da chamada da função "cloneObject" passando o objeto "tenis" como argumento. Isso cria uma cópia profunda do objeto "tenis".
 let clone1 = cloneObject(tenis);
 
-// Exibe no console as informações do objeto "tenis" original e da sua cópia "clone1".
+// Exibe no console as informações do objeto "tenis" original e da sua cópia "clone1"..
 console.log(1, "tenis original", tenis);
 console.log(2, "clone do obj... tenis", clone1);
 
