@@ -9,4 +9,4 @@ carro.preco = 75000;
 carro["preco"] = 80000;
 console.log(carro["preco"]);
 
-// podemos remover e editar valores de um objeto
+// podemos remover e editar valores de um objeto...
