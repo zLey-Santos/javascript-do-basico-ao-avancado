@@ -15,5 +15,5 @@ console.log("Nome:" + "Wesley Santos" + ", " + "idade:" + (30 + 1));
 
 /* 
 Os valores podem ser separados por vigulas veremos uma explicação mais a frente.
-Veremos também sobre as crases (`crases`)
+Veremos também sobre as crases (`crases`).
 */
