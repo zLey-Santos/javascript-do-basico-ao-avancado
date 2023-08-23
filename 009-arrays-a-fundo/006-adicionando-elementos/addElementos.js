@@ -11,5 +11,5 @@ arr[5] = 6; // add elemento no final menos usado menos convencional
 arr.unshift(true); // add um elemento, valor no inicio do array
 console.log("segundo:", ...arr);
 
-arr.push("limão"); // add um elemento valor no fim do array
+arr.push("limão"); // add um elemento valor no fim do array.
 console.log("terceiro:", ...arr);
