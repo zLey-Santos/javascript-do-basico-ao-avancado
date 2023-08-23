@@ -17,7 +17,7 @@ metodo1: function() {
 
 No exemplo acima, criamos um objeto chamado objeto com duas propriedades (propriedade1 e propriedade2) e um método (metodo1). As propriedades são atribuídas a um valor específico e podem ser acessadas usando a sintaxe de ponto (objeto.propriedade1) ou a sintaxe de colchetes (objeto["propriedade1"]).
 
-Métodos são funções que estão associadas a um objeto e podem ser chamados usando a sintaxe de ponto (objeto.metodo1()). Eles permitem que você defina comportamentos específicos para um objeto.
+Métodos são funções que estão associadas a um objeto e podem ser chamados usando a sintaxe de ponto (objeto.metodo1()). Eles permitem que você defina comportamentos específicos para um objeto..
 
 Além da sintaxe de objeto literal, também é possível criar objetos usando a função construtora new Object() ou por meio de classes introduzidas no ECMAScript 2015 (ES6). Essas abordagens oferecem mais flexibilidade e recursos avançados para trabalhar com objetos.
 
