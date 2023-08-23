@@ -14,7 +14,7 @@ const condicao =
 
 No exemplo acima, a condição verificada é velocidade >= warn. Se essa condição for verdadeira (a velocidade excede ou é igual ao limite), o primeiro bloco de código será executado. Caso contrário, se a condição for falsa (a velocidade está abaixo do limite), o segundo bloco de código será executado.
 
-Se a condição for verdadeira, o código dentro do primeiro bloco será executado e imprimirá a mensagem:
+Se a condição for verdadeira, o código dentro do primeiro bloco será executado e imprimirá a mensagem:.
 
 "Excedeu o limite de velocidade de 75Km/h, velocidade atual de [velocidade]Km/h [MULTADO!!!]"
 
