@@ -18,7 +18,7 @@ A palavra-chave let é usada para declarar uma variável que pode ser modificada
 
 A palavra-chave const é usada para declarar uma variável com um valor constante, ou seja, seu valor não pode ser alterado depois de atribuído.
 
-Após declarar uma variável, podemos atribuir um valor a ela:
+Após declarar uma variável, podemos atribuir um valor a ela:.
 
 
 
