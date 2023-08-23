@@ -10,6 +10,6 @@ carro["preco"] = 80000;
 console.log(carro["preco"]);
 
 delete carro.cv;
-// podemos deletar valores de um obj...
+// podemos deletar valores de um obj....
 
 console.log(carro.cv, carro.estoque);
