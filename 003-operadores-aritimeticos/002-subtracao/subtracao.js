@@ -7,5 +7,5 @@ console.log("5" + 1); // retorna 51
 
 /* 
 veremos mais a frente como se previnir dessas loucuras do javascript...
-falaremos de operadores de igualdade para uma verificação de tipos.
+falaremos de operadores de igualdade para uma verificação de tipos...
 */
