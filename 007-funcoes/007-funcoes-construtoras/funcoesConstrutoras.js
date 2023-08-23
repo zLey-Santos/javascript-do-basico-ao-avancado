@@ -5,7 +5,7 @@ function Nome(nome, sobrenome) {
   this.nome = nome;
 
   // O método 'sobreNome' é atribuído como propriedade do objeto
-  // Ele retorna o nome completo combinando o 'nome' e 'sobrenome' passados para o construtor
+  // Ele retorna o nome completo combinando o 'nome' e 'sobrenome' passados para o construtor.
   this.sobreNome = () => {
     const nomeCompleto = `${this.nome} ${sobrenome}`;
     return nomeCompleto;
