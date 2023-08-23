@@ -4,3 +4,4 @@ elemento.style.color = "yellow";
 elemento.style.color = "blue";
 
 console.log(elemento);
+//
