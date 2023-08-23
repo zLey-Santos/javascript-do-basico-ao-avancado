@@ -61,5 +61,5 @@ No exemplo acima, a expressão avaliada é a variável mes, que contém o valor 
 
 Se não houver uma correspondência nos cases anteriores, o código dentro do bloco default será executado. Nesse caso, o código imprime ${mes} não encontrado, onde ${mes} representa o valor de mes que não corresponde a nenhum dos cases definidos.
 
-O switch é útil quando você tem várias condições a serem verificadas em relação a uma única expressão e deseja executar diferentes blocos de código com base nessa expressão. Ele é uma alternativa mais legível e concisa do que encadear vários blocos de if-else if-else.
+O switch é útil quando você tem várias condições a serem verificadas em relação a uma única expressão e deseja executar diferentes blocos de código com base nessa expressão. Ele é uma alternativa mais legível e concisa do que encadear vários blocos de if-else if-else..
  */
