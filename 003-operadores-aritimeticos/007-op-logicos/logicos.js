@@ -23,7 +23,7 @@ Basta que um dos lados da expressão seja verdadeiro para satisfazê-lo e retorn
 Caso ambos os lados da expressão sejam false, ele retorna false, pois não satisfaz o operador ||.
 true || true = true
 true || false = true
-false || false = false
+false || false = false.
 */
 console.log("-------------------------------------------");
 console.log(!true); // false, pois a expressão esperada é falsa
