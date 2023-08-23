@@ -12,4 +12,4 @@ lanches.forEach((element) => {
 });
 
 ul.append(fragment);
-// fragmento é melhor para desempenho.
+// fragmento é melhor para desempenho
