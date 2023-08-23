@@ -35,4 +35,4 @@ const existeAlimento = pedidos.some((Element, index) => {
   return Element.alimento === "Pizza";
 });
 
-console.log(existeAlimento); // O Some pergunta se apenas 1 valor dos Array equivale a sua condição.
+console.log(existeAlimento); // O Some pergunta se apenas 1 valor dos Array equivale a sua condição...
