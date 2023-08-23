@@ -11,7 +11,7 @@ const arr = [
   ],
 ];
 
-//console.log(arr[1][0]); // O Primeiro [vertical] acessa o índice na vertical o segundo [horizontal] acessa o indice da horizontal
+//console.log(arr[1][0]); // O Primeiro [vertical] acessa o índice na vertical o segundo [horizontal] acessa o indice da horizontal.
 console.table(arr);
 console.table(arr[3]);
 
