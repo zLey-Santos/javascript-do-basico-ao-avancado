@@ -1,5 +1,5 @@
 // const peso = parseFloat(prompt("Digite seu peso em quilogramas:")); utilizar uma pagina index.html para usar metodo prompt
-// const altura = parseFloat(prompt("Digite sua altura em metros:"));
+// const altura = parseFloat(prompt("Digite sua altura em metros:."));
 
 const peso = 70;
 const altura = 1.85;
