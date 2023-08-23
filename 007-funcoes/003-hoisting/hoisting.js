@@ -9,7 +9,7 @@ function hoistingExemplo() {
   // Exemplo com variável
   console.log("Valor de x:", x); // Saída: Valor de x: undefined
   var x = 5;
-  console.log("Valor de x após a atribuição:", x); // Saída: Valor de x após a atribuição: 5
+  console.log("Valor de x após a atribuição:", x); // Saída: Valor de x após a atribuição: 5.
 
   // Exemplo com função
   minhaFuncao(); // Saída: Sou uma função declarada antes de ser chamada!
