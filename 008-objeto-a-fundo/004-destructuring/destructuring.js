@@ -17,7 +17,7 @@ console.log(
   `Tipo:${tenis.tipo}, Número:${tenis.tamanho}, Estoque:${estoqueTenis}, Marca:${marcasNomes}`
 );
 
-// Declaração de um novo objeto chamado "tenisII" com várias propriedades
+// Declaração de um novo objeto chamado "tenisII" com várias propriedades.
 const tenisII = {
   tamanho: 40,
   estoque: true,
