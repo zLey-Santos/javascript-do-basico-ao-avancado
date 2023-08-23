@@ -2,7 +2,7 @@
   // Verifica se num1 e num2 são do tipo 'number' (números)
   if (typeof num1 === "number" && typeof num2 === "number") {
     // Se ambos forem números, realiza a soma e retorna o resultado
-    return num1 + num2;
+    return num1 + num2;.
   }
   // Caso um ou ambos não sejam números, retorna uma mensagem de erro
   return "Dados incorretos";
