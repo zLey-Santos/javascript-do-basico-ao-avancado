@@ -1,3 +1,4 @@
+// continue e break
 const myArrayObj = [
   { nome: "Wesley ", sobreNome: "Santos" },
   { nome: "Luana ", sobreNome: "Valentim" },
