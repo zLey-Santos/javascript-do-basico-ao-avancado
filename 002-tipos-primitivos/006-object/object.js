@@ -3,7 +3,7 @@ Objeto: Tenis (Propriedade 'cadarço', 'pallmilha' )
 Objeto: Celular (Propriedade)
 Objeto: Drone (Propriedade)
 
-Propriedades / Atributos / Funcionalidades 
+Propriedades / Atributos / Funcionalidades. 
 */
 
 console.log({
