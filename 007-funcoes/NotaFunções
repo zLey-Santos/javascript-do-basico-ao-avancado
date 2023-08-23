@@ -24,7 +24,7 @@ const nomeDaFuncao = function(parametro1, parametro2) {
 
 Uma função pode receber zero ou mais parâmetros (também chamados de argumentos), que são valores passados para a função quando ela é chamada. Dentro do bloco de código da função, você pode realizar operações, manipular valores, executar lógica condicional, iterar em loops e muito mais.
 
-Para chamar uma função e executar seu código, você usa o nome da função seguido por parênteses e, se necessário, passa os argumentos correspondentes:
+Para chamar uma função e executar seu código, você usa o nome da função seguido por parênteses e se necessário, passa os argumentos correspondentes:
 
 
 
