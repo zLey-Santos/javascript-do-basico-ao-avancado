@@ -1,5 +1,3 @@
-"use strict";
-
 const paragrafos = document.querySelectorAll("p");
 
 paragrafos.forEach((element, index) => {
