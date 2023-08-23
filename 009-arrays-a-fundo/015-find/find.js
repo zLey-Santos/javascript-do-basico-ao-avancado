@@ -35,4 +35,4 @@ const findId = pedidos.find((Element, index) => {
   return Element.bebida === "Refrigerante";
 });
 
-console.log(findId); // find pega o primeiro elemento que ele encontrar
+console.log(findId); // find pega o primeiro elemento que ele encontrar.
