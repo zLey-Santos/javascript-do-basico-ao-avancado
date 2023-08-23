@@ -15,7 +15,7 @@ Nós de comentário: Representam comentários dentro do código HTML ou XML.
 
 Por meio do DOM, você pode usar métodos e propriedades para navegar pela estrutura do documento, selecionar elementos, modificar seu conteúdo, estilo e atributos, criar novos elementos, adicionar ou remover elementos da página e manipular eventos.
 
-Por exemplo, você pode selecionar um elemento pelo seu id usando o método getElementById:
+Por exemplo, você pode selecionar um elemento pelo seu id usando o método getElementById:-
 
 const elemento = document.getElementById("meu-elemento");
 
