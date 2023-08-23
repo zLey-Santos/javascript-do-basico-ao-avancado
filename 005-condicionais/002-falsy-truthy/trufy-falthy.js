@@ -5,7 +5,7 @@ if (hora >= 4 && hora < 12) {
 } else if (hora > 12 && hora < 18) {
   console.log("Boa tarde!"); // Executa se o valor de i for maior que 12 e menor que 18
 } else {
-  console.log("Boa noite!"); // Executa se todas as condições anteriores forem falsas
+  console.log("Boa noite!"); // Executa se todas as condições anteriores forem falsas.
 }
 
 if (!null) {
