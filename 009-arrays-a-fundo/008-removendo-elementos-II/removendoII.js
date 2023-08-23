@@ -1,6 +1,6 @@
 /* 
 slice = pega dados dentro de um ranger sem quebrar a array
-splice = remove os dados do array dentro de um ranger 
+splice = remove os dados do array dentro de um ranger.
 */
 
 let arr = [
