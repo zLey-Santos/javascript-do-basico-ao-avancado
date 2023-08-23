@@ -12,7 +12,7 @@ let Tenis = {
     caixa: {
       largura: 35, // Width of the shoe box
       altura: 40, // Height of the shoe box
-      profundidade: 15, // Depth of the shoe box
+      profundidade: 15, // Depth of the shoe box.
     },
   },
 
