@@ -18,6 +18,6 @@ const children = Array.from(container.children);
 
 // Iterar sobre cada elemento no array "children" usando forEach
 children.forEach((res) => {
-  // Imprimir cada elemento no console durante a iteração
+  // Imprimir cada elemento no console durante a iteração.
   console.log(res);
 });
