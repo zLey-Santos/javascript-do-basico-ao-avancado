@@ -7,7 +7,7 @@ const tenis = {
   marca: "Nike",
 };
 
-// Imprimindo o tipo de dado da propriedade 'marca'
+// Imprimindo o tipo de dado da propriedade 'marca'.
 console.log(typeof tenis.marca);
 
 // Nota: Para acessar os valores das propriedades de um objeto, usa-se a notação de ponto, por exemplo: tenis.marca para acessar o valor "Nike".
