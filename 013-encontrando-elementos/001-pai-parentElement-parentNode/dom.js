@@ -17,7 +17,7 @@ console.log("----------------------------");
 const container = document.querySelector(".container");
 
 console.log(container.parentElement); // retorna o pai que é camada de cima do seu HTML
-console.log(container.parentNode); // exmp: (strong) => filho  (P) => filho (div)
+console.log(container.parentNode); // exmp: (strong) => filho  (P) => filho (div).
 
 console.log("----------------------------");
 
