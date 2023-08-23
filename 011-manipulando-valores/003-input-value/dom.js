@@ -6,3 +6,4 @@ setTimeout(() => {
   input.value = "Wesley";
   console.log(input.value);
 }, 3000);
+//
