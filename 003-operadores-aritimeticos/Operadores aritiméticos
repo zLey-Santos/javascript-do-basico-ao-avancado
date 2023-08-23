@@ -1,4 +1,4 @@
-Operadores aritméticos
+; Operadores aritméticos
 Em JavaScript, os operadores aritméticos são utilizados para realizar operações matemáticas em valores numéricos. Eles permitem que você realize cálculos como adição, subtração, multiplicação, divisão, entre outros. Abaixo estão os principais operadores aritméticos em JavaScript:
 
 Adição (+): Utilizado para somar dois valores. Exemplo: 3 + 5 resulta em 8.
@@ -17,4 +17,4 @@ Decremento (--): Utilizado para diminuir o valor de uma variável em 1. Exemplo:
 
 Além desses operadores, também existem operadores de atribuição combinados com aritméticos, como +=, -=, *=, /=, que permitem realizar a operação aritmética e atribuir o resultado à mesma variável.
 
-É importante considerar a precedência dos operadores ao escrever expressões aritméticas mais complexas. Caso necessário, é possível utilizar parênteses para controlar a ordem de avaliação das operações.
+É importante considerar a precedência dos operadores ao escrever expressões aritméticas mais complexas. Caso necessário, é possível utilizar parênteses para controlar a ordem de avaliação das operações.  
