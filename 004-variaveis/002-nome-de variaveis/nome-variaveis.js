@@ -11,3 +11,4 @@ let quantidade_estoque;
 let total_vendas_mes;
 
 console.log(saldo_conta);
+/* como podemos nomear nossas variaveis */
