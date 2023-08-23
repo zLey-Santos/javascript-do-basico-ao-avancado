@@ -40,4 +40,4 @@ const balanco = pedidos.reduce((total, element) => {
   return total + element.preco;
 }, 0);
 
-console.log(`R$${balanco} `); // A ideia é pegar todos os valores de um array e condensá-los em um só
+console.log(`R$${balanco} `); // A ideia é pegar todos os valores de um array e condensá-los em um só...
