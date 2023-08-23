@@ -1,6 +1,6 @@
 // Matrizes Multidimensionais
 
-const [a, b, c] = ["Arroz", "Feijão", "Bife"];
+const [a, b, c] = ["Arroz", "Feijão", "Bife, salada"];
 const comida = ["Arroz", "Feijão", "Bife"];
 
 console.log(a);
