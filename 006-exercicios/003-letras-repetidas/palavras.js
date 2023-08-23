@@ -19,7 +19,7 @@ for (let letra of chavesOrdenadas) {
   console.log(`${letra}: ${letras[letra]}`);
 }
 
-/* Nesse código, a palavra a ser analisada é "Paralelepipido de itaquaqcetuba". A função toLocaleLowerCase() é utilizada para converter a palavra em letras minúsculas, e o método replaceAll(" ", "") remove os espaços em branco para garantir uma contagem correta.
+/* Nesse código, a palavra a ser analisada é "Paralelepipido de itaquaqcetuba". A função toLocaleLowerCase() é utilizada para converter a palavra em letras minúsculas, e o método replaceAll(" ", "") remove os espaços em branco para garantir uma contagem correta..
 
 Em seguida, o loop for percorre cada caractere da palavra e realiza a contagem de ocorrências de cada letra. Se a letra já existir no objeto letras, sua contagem é incrementada. Caso contrário, a letra é adicionada como uma nova chave no objeto com o valor inicial de 1.
 
