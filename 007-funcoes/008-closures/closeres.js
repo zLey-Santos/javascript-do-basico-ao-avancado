@@ -1,7 +1,7 @@
 /* 
 Uma closure ocorre normalmente quando uma função 
-é declarada dentro do corpo de outra, e a funçãointerior 
-referencia variáveis locais da função exterior.
+é declarada dentro do corpo de outra, e a função interior 
+referencia variáveis locais da função exterior..
 */
 
 // Função QualSeuNome recebe um parâmetro 'name'
