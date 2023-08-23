@@ -12,7 +12,7 @@ function tenis(tamnaho, estoque, preco) {
 // Atribuindo a propriedade 'estoque' ao objeto 'tenis' criado pela função.
 tenis.estoque = true;
 
-// Atribuindo a propriedade 'tamnaho' ao objeto 'tenis' criado pela função.
+// Atribuindo a propriedade 'tamnaho' ao objeto 'tenis' criado pela função.-
 tenis.tamnaho = [38, 39, 40];
 
 // Atribuindo a propriedade 'preco' ao objeto 'tenis' criado pela função.
