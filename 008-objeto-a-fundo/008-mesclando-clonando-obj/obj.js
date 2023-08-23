@@ -14,7 +14,7 @@ console.log(1, clone1);
 console.log(2, tenis);
 
 // let mesclar1 = Object.assign(tenis, link); // podemos mesclar unir dessa forma com assign() quer dizer junte esses valores
-// let mesclar2 = { ...tenis, ...link }; // spreeds operator com destruturação
+// let mesclar2 = { ...tenis, ...link }; // spreeds operator com destruturação.
 
 // mesclar1.link.a = "ABC";
 
