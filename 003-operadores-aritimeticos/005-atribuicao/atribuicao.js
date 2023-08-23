@@ -11,7 +11,7 @@ x = x + 1; // retorna 3
 console.log(x); // nesse caso ele está fazendo x = x + 1 retornando 2 atribuindo um novo valor ao x fazendo x = 2
 
 x -= 1;
-console.log(y); // retorna 2 | sendo x antes valia 3 menos 1 agora vale 2
+console.log(y); // retorna 2 | sendo x antes valia 3 menos 1 agora vale 2.
 
 x *= 2;
 console.log(x); // retorna 4
