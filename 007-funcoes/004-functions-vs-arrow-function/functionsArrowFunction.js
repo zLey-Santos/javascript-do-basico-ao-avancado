@@ -35,7 +35,7 @@ function nomeFuncArrowArguments() {
 
 console.log(nomeFuncArrowArguments("Wes. O Santos"));
 
-const nomeFuncArrowParams = (params) => params; // pode serpassado sem parentes porem é mais legivel com os parentes
+const nomeFuncArrowParams = (params) => params; // pode serpassado sem parentes porem é mais legivel com os parentes.
 
 /* 
 5- Não pode ser invocada com New
