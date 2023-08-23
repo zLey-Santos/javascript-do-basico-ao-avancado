@@ -12,7 +12,7 @@ console.log(num); // Retorna 123, pois está em escopo global.
 
 {
   let text = "Santos";
-  console.log(text); // Retorna "Santos", pois estamos acessando dentro do seu próprio escopo.
+  console.log(text); // Retorna "Santos", pois estamos acessando dentro do seu próprio escopo..
 }
 
 console.log(text); // Retorna um erro, pois a variável "text" foi declarada dentro de um escopo e não é acessível fora dele.
