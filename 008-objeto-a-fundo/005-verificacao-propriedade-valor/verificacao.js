@@ -10,7 +10,7 @@ const tenisII = {
 
 // Verifica se o objeto "tenisII" possui a propriedade "marca"
 // Se a propriedade "marca" existir, a variável "verificador" receberá a string "Sim existe"
-// Caso contrário, a variável "verificador" receberá a string "Não existe"
+// Caso contrário, a variável "verificador" receberá a string "Não existe".
 const verificador = tenisII.hasOwnProperty("marca")
   ? "Sim existe"
   : "Não existe";
