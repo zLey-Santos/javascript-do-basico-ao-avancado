@@ -6,4 +6,12 @@ para executar seu projeto em um cenário de desenvolvimento e testes
 
 ( Como pacotes telacionados a teste e formatação 
   geral dp código-fonte do seu projeto ).
+
+  Atualizando pacotes:
+
+#Verifica a versão dos pacotes desatualizados: npm outdated
+#Atualizada o pacote: npm i <nome-do-pacote>@latest
+
+Deletando pacotes 
+npm uninstall <nome-do-pacote>
 */
