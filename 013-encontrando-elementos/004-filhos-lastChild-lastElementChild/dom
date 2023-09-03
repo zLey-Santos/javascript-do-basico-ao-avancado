@@ -1,0 +1,31 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Encontrando elementos</title>
+  </head>
+  <body>
+    <h1 class="active teste1 teste2">encontrando Elementos</h1>
+
+    <div class="container" id="container">
+      <h1>Manipulando DOM</h1>
+      <p class="paragrafo">
+        1 CLASS = Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
+        quia unde quaerat nam, ducimus explicabo tempore aspernatur, a pariatur
+        veniam repellendus nesciunt alias quo eos.
+        <strong>Sapiente rerum voluptates repellendus in!</strong>
+      </p>
+
+      < id="paragrafo">
+        2 ID = Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
+        quia unde quaerat nam, ducimus explicabo tempore aspernatur, a pariatur
+        veniam repellendus nesciunt alias quo eos. Sapiente rerum voluptates
+        repellendus in! <strong>olá,Mundo!</strong>
+      </p>
+    </div>
+
+    <script src="dom.js"></script>
+  </body>
+</html>
+ -->
