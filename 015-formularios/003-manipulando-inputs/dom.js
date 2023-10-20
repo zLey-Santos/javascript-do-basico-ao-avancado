@@ -19,6 +19,6 @@ form.addEventListener("input", (event) => {
   // Remove o próximo elemento irmão do formulário (se houver um)
   form.nextElementSibling.remove();
 
-  // Insere o novo elemento <div> imediatamente após o formulário no documento HTML
+  // Insere o novo elemento <div> imediatamente após o formulário no documento HTML.
   form.after(newDivElement);
 });
