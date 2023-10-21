@@ -1,0 +1,41 @@
+  *Javascript
+
+    JavaScript assíncrono refere-se à capacidade do javascript de executar 
+  tarefas de forma não bloqueante, permitindo que p código continue a ser executado enquanto 
+  aguarda a conclusão de uma determinada opperações.  
+
+    JavaScript é uma linguagem de programação que possui tanto aspectos 
+  síncronos quanato assíncronos 
+
+    Por padão, o javascript é assíncrono, o que significa que cada linha de código é 
+  executada em sequência, aguardando a conclusão de uma tarefa antes de passar para a próxima
+
+    No entanto o javascript também oferece recursos para lidar com tarefas
+  assíncronas de forma eficiente.
+
+    Isso é especialmenete importante em operações que poidem levar tempo, como chemadas 
+  de rede, acessos a bancos de dados, leituras/gravação de arquivos e outras
+  operações de entrada e saída.
+
+    Por tanto, embora o javascript seja síncrono por padrão, ele possui recursos e técnicas 
+  para lidar se forma eficiente com tarefas assíncronas. permitindo uma execução não bloqueante 
+  e aprovando ao máximo a capacidade de processamento ea resposta em tempo real das aplicações.
+
+  *Existem várias  técnicas para trabalhar com javascript de forma assíncron0:
+
+    1- Callbacks: Os callbacks são funçoes que são passadas como argumentos para serem
+  executadas quando uma tarefa assíncrona é concluída. Essa abordagem permite que o código assíncrono
+  controle o fluxo de execução, chamando o callback apropriado quando a tarefa é finalizada.  
+
+    2- Promises: As promises são objetos que representam a conclusão (OU FALHA ) de uma 
+  tarefa assíncrona. Elas fornecem uma sintaxe mais limpa e estruturada para lidar com código
+  assíncrono, permitindo encandear chamads e tratar erros de forma mais eficiente. 
+
+    3- async/awaite: Os asynck/awite é uma forma mais recente e mais légivel de lidar com tarefas assíncronas
+  em javascript.
+
+    Essa abordagem utiliza as palavras-chaves async e await para indicar funções assíncrona e pausar 
+  a execução até que uma Promise seja resolvida.
+
+
+

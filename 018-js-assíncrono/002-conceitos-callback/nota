@@ -1,0 +1,8 @@
+O código começa definindo um setInterval, que é uma função do JavaScript que executa uma determinada função repetidamente em intervalos regulares de tempo. Neste caso, a função anônima é definida para ser executada a cada 3000 milissegundos (ou 3 segundos). A função anônima chama myConsole().
+
+myConsole é uma função que imprime a mensagem "Meu console funciona!" no console quando é chamada. 
+Logo após a definição de myConsole, uma mensagem "Não parei!" é impressa no console.
+
+A função myCallback é definida para receber uma função como argumento (func). Dentro de myCallback, a função passada como argumento é executada, e seu resultado é impresso no console.
+
+myCallback é chamada passando uma função anônima como argumento. A função anônima retorna o resultado da expressão 1 + 1, que é 2. O resultado (2) é então impresso no console o argumento passado para myCallback.
