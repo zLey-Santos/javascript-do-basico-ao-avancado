@@ -1,0 +1,34 @@
+Por que utilizar o TypeScript?
+
+--TypeScript?
+
+Primeiro de tudo, o script é uma linguagem de programação fortemente tipada que se baseia em JavaScript,
+oferecendo os melhores ferramentas em qualquer escala.
+Ele está ali no front back end, desktop, mobile, etc.
+Então esse camarada aqui vai nos ajudar muito.
+
+--Tipagem estática.
+Ela nos ajuda a evitar erros em tempo de execução e aumenta a confiabilidade do nosso código.
+Além disso, a tipagem estática facilita a leitura e manutenção do nosso código, pois ajuda a entender
+melhor a nossa estrutura de dados e as interações entre as partes do código.
+
+--Interoperabilidade
+
+TypeScript é compatível com JavaScript, então ele é um super
+sete do JavaScript.
+Ele dá super poderes ao JavaScript e pode ser usado com a maioria das bibliotecas e frameworks JavaScript
+existentes.
+Você consegue utilizar ele com Express, com o Project, com Next
+E significa que os desenvolvedores podem utilizar TypeScript em projetos existentes sem precisar mudar
+todo o código.
+
+--Ferramentas
+As ferramentas de desenvolvimento como ideias editores de código fornece suporte TypeScript,
+o que ajuda a aumentar a produtividade dos desenvolvedores.
+Além disso, a tipagem estática permite que as ferramentas forneçam recursos adicionais, como completar
+automaticamente o código, verificar os erros em tempo real.
+
+--Evolução do JavaScript
+O TypeScript permite que os desenvolvedores aproveitem as novas funcionalidades
+do JavaScript que ainda não são amplamente suportadas em todos os navegadores e plataformas.
+Além disso, o script inclui recursos adicionais, como interfaces types, etc.
