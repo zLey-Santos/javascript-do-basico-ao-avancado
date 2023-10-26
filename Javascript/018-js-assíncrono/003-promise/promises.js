@@ -16,7 +16,6 @@ const onOrder = (order) => {
       // Rejeitar a promessa e indicar que o pedido está em falta
       return reject(`O pedido da mesa:${table} ** [${order}] está em falta!`);
     }
-
     // Simular um atraso de 2 segundos (tempo para preparar o pedido)
     setTimeout(() => {
       // Resolver a promessa e indicar que o pedido está pronto
