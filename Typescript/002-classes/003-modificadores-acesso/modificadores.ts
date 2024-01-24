@@ -7,11 +7,20 @@ Protect - Pode ser acessado pela mesma classe e classes filhas,
 ###################################################################
 Private - Pode ser acessado somente pela própria classe.                      
 */
+// Atualmente, com JavaScript e TypeScript, ao adicionar o símbolo "#" antes de uma propriedade ou metódo, ela se torna privada por padrão. Isso reforça a encapsulação e a segurança dos dados no código.
+class MinhaClasse {
+  #propriedadePrivada: number = 1;
+  #metodo() {
+    return 1;
+  }
+}
 
 class Pessoa2 {
   // Atributos privados - só podem ser acessados pela própria classe
-  private nome: string = "";
+  private nome: string = '';
   private idade: number = 0;
+
+  private _profissao: string = 'Programador'; // O uso de _ Antes significa que se trata de um private
 
   // Construtor da classe
   constructor(nome: string, idade: number) {
@@ -31,10 +40,10 @@ class Pessoa2 {
 }
 
 // Instanciando um objeto da classe Pessoa2
-const pessoa3 = new Pessoa2("zLey", 31);
+const pessoa3 = new Pessoa2('zLey', 31);
 
 // Tentativa de chamar o método comer (público)
-pessoa3.comer("algumaComida"); // Chamada correta do método comer
+pessoa3.comer('algumaComida'); // Chamada correta do método comer
 
 // Tentativa de chamar o método fezAniversario (protegido)
 // Como estamos fora da classe e suas subclasses, isso não é permitido.
