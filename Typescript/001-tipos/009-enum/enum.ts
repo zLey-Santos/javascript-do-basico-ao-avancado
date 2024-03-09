@@ -14,16 +14,20 @@ enum EMes {
 }
 //console.log("Meses do ano ordenados de 1 a 12", EMes.Abr);
 
-const pessoa: { nome: string; mesAniversario: number } = {
-  nome: "zLey",
+const pessoa: {
+  [x: string]: any;
+  nome: string;
+  mesAniversario: number;
+} = {
+  nome: 'zLey',
   mesAniversario: EMes.Jan,
 };
 
 if (pessoa.mesAniversario === EMes.Jan) {
   console.log(
-    "Feliz aniversario",
+    'Feliz aniversario',
     pessoa.nome,
-    "dia é 08 do",
-    pessoa.mesAniversario
+    'dia é 08 do',
+    pessoa.mesAniversario,
   );
 }

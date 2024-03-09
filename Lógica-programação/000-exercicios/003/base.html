@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lógica Javascrit</title>
+  <style></style>
+</head>
+
+<body>
+  <h1>Lógica de programação em Javascript</h1>
+  <script>
+    const p1 = Number(prompt('Jogador 1, digite um número'));
+    const p2 = Number(prompt('Jogador 2, digite um número'));
+
+    if (p1 === p2) {
+      alert('Empate');
+    } else {
+      let nSort = parseInt(Math.random() * 2)
+      if (nSort === 0) {
+        if (p1 < p2) {
+          alert('Play 1, Ganhou')
+        } else {
+          alert('Play 2, Ganhou')
+        }
+      } else {
+        if (p1 > p2) {
+          alert('Play 2, Ganhou')
+        } else {
+          alert('Play 1, Ganhou')
+        }
+      }
+    }
+  </script>
+
+</body>
+
+</html>

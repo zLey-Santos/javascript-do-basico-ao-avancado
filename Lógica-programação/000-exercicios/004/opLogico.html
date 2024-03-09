@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lógica Javascrit</title>
+  <style></style>
+</head>
+
+<body>
+  <h1>Lógica de programação em Javascript</h1>
+  <h1>Verificação de Aprovação</h1>
+  <script>
+    const n1 = Number(prompt('Digite a primeira nota:'));
+    const n2 = Number(prompt('Digite a segunda nota:'));
+
+    if (n1 < 0 || n1 > 10 || n2 < 0 || n2 > 10) {
+      alert('Por favor, insira notas válidas entre 0 e 10.');
+    } else {
+      const md = (n1 + n2) / 2;
+      if (md >= 5) {
+        alert(`Aluno Aprovado! Sua média é ${md.toFixed(2)}.`);
+      } else {
+        alert(`Aluno Reprovado! Sua média é ${md.toFixed(2)}.`);
+      }
+    }
+  </script>
+</body>
+
+</html>
